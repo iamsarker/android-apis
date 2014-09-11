@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Where Am I</string>
+    <string name="hello_world">Hello world!</string>
+     <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_normal">Normal View</string>
+    <string name="action_hybrid">Hybrid View</string>
+    <string name="action_setellite">Setellite View</string>
+    <string name="action_terrain">Terrain View</string>
+    <string name="action_none">None View</string>
+    <string name="action_overflow">Map View Settings</string>
+
+</resources>
